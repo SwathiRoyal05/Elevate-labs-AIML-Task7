@@ -9,14 +9,6 @@ This task focuses on understanding and applying Support Vector Machines (SVMs) f
 
 ---
 
-## 📂 Dataset Used
-**Breast Cancer Wisconsin Dataset**  
-- Available directly via `sklearn.datasets`
-- Features: 30 real-valued input features
-- Target: Binary (malignant = 0, benign = 1)
-
----
-
 ## 🧰 Tools & Libraries
 - Python
 - Scikit-learn
